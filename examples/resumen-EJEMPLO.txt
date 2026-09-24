@@ -1,0 +1,3 @@
+EJEMPLO FICTICIO DE FORMATO — NO ES UNA COMPARECENCIA REAL
+
+Este párrafo muestra cómo se verá un resumen ejecutivo. Sustituye todo el contenido por el documento correspondiente antes de colocarlo en public/resumen/SIGLA.txt.
